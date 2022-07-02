@@ -1,0 +1,11 @@
+ #include<stdio.h>
+ void main()
+ {
+     int mynum = .25;
+     if (mynum > 0)
+     printf("positie");
+     else if (mynum< 0)
+     printf("negeative");
+     else
+     printf(" the value is 0");
+ }
